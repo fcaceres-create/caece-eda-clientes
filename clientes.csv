@@ -1,0 +1,11 @@
+id_cliente,edad,genero,estado_civil,ingresos,monto_compra
+1,25,Femenino,Soltero,45000,250
+2,38,Masculino,Casado,62000,550
+3,45,Femenino,Casado,85000,780
+4,22,Masculino,Soltero,30000,150
+5,52,Femenino,Divorciado,95000,900
+6,28,Masculino,Soltero,51000,420
+7,35,Femenino,Casado,68000,600
+8,41,Masculino,Divorciado,72000,650
+9,31,Femenino,Soltero,58000,480
+10,60,Masculino,Casado,105000,1200
